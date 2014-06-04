@@ -1,0 +1,2 @@
+serviceClass: com.example.equationProject.client.EquationService
+path: D64BE6DA3341E5230271A37BB4A17B1F.gwt.rpc
